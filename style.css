@@ -1,0 +1,11 @@
+.logo {
+    font-size: 90px;
+}
+
+.about-img:hover {
+    box-shadow: 0 4px 10px black;
+}
+
+.shadow:hover {
+    text-shadow: 0 4px 10px black;
+}
